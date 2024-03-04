@@ -15,5 +15,9 @@ flutter pub add gemini
 
  https://github.com/razaimtiaza/gemini_ai.git
 
+ 
+**Key:**
+ https://makersuite.google.com
+
 
 **Join the Gemini community today and start building exceptional Flutter applications!**
